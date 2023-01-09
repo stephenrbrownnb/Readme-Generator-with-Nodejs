@@ -1,9 +1,9 @@
 
-# Readme Generator 
+# Readme generator with node js 
 
 ## Description
 
-A simple project which based on user inputs creates a README 
+A simple javascript to create a readme with user inputs
 
 
 
@@ -14,7 +14,7 @@ Command(s) to install required files for program is: npm i
 Command(s) to run the program is: node index.js
 
 ##Credit 
-This project was created by Stephen Brown and assisted by none
+This project was created by Stephen Brown , who can be found on github at stephenrbrownnb  and assisted by Noone
 
 ## License
 Copyright (c) [2022] [Stephen]
