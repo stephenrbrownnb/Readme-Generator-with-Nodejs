@@ -16,7 +16,7 @@ Command(s) to run the program is: node index.js
 ##Credit 
 This project was created by Stephen Brown , who can be found on github at stephenrbrownnb  and assisted by Noone
 
-## License
+## License            
 Copyright (c) [2022] [Stephen]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

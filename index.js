@@ -19,7 +19,7 @@ Command(s) to install required files for program is: ${projectInstall}
 Command(s) to run the program is: ${projectCommand}
 
 ##Credit 
-This project was created by ${projectAuthor}, who can be found on github at ${projectGithub} and assisted by ${projectAssist}
+This project was created by ${projectAuthor}, Github id: ${authorGithub} and email address: ${authorEmail} and assisted by ${projectAssist}
 
 ## License
 Copyright (c) [2022] [Stephen]
@@ -76,8 +76,13 @@ inquirer
 },
 {
     type: 'input',
-    name: 'projectGithub',
+    name: 'authorGithub',
     message:'What is your github Id',
+},
+{
+    type: 'input',
+    name: 'emailAddress',
+    message:'What is your email address',
 },
 {
     type: 'input',
