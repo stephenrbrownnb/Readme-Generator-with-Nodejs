@@ -16,7 +16,8 @@ ${projectDesc}
 Command(s) to install required files for program is: ${projectInstall}
 
 ##Usage Instructions
-Command(s) to run the program is: ${projectCommand}
+Command(s) to run the program is: ${projectCommand} video with instructions can be found 
+at https://drive.google.com/file/d/1rNAfQY1yYPhlgLCjBwO07DVnfmgpl5XX/view?usp=sharing
 
 ##Credit 
 This project was created by ${projectAuthor}, Github id: ${authorGithub} and email address: ${authorEmail} and assisted by ${projectAssist}
