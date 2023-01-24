@@ -1,22 +1,28 @@
+# Challange 05 - Day Planner
 
-# Readme generator with node js 
+## Contents
+ Dexscription
+ Installation 
+ Usage Instructions
+ Credit
+ License
 
 ## Description
 
-A simple javascript to create a readme with user inputs
+This is a quick javascript using Inquirer to give a series of prompt to assist the user in creating a Readme.md generator which will be titled GeneratedREADME.md
 
+## Installation 
+To install the program type: "npm install" which will install the required filetypes to run the program, including inquirer 
 
+## Usage Instructions
+Command(s) to run the program is:"node index.js" it will then run you through a series of questions which will provide the variable data for a README.md file. 
+The video with instructions can be found 
+at https://drive.google.com/file/d/1rNAfQY1yYPhlgLCjBwO07DVnfmgpl5XX/view?usp=sharing
+the github for this project is https://github.com/stephenrbrownnb/Readme-Generator-with-Nodejs
+## Credit 
+This project was created by Stephen Brown , Github id: stephenrbrownnb  and email address: stephenrbrownnb@gmail.com  
 
-## Installation Instructions 
-Command(s) to install required files for program is: npm i
-
-##Usage Instructions
-Command(s) to run the program is: node index.js
-
-##Credit 
-This project was created by Stephen Brown , who can be found on github at stephenrbrownnb  and assisted by Noone
-
-## License            
+## License
 Copyright (c) [2022] [Stephen]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -36,5 +42,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
